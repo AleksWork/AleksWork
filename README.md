@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AleksWork
-- 👀 I’m interested in Web3, Finance, Investing, Everything about Economics basically
+- 👀 I’m interested in Web3,AI, Finance, Investing, Everything about Economics basically
 - 🌱 I’m currently learning Solidity
 
 <!---
